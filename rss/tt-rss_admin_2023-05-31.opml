@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Person" text="Person">
+      <outline text="Jack BLOG" title="Jack BLOG" type="rss" 
+            xmlUrl="https://wujackwill.github.io/atom.xml"/>
+      <outline text="/无间落叶" title="/无间落叶" type="rss" 
+            xmlUrl="http://blog.leafsoar.com/atom.xml"/>
+      <outline text="4G Spaces" title="4G Spaces" type="rss" 
+            xmlUrl="https://blog.youxu.info/feed.xml" htmlUrl="http://blog.youxu.info"/>
+      <outline text="André Staltz" title="André Staltz" type="rss" 
+            xmlUrl="http://staltz.com/feed.xml" htmlUrl="https://staltz.com/"/>
+      <outline text="Beyond the Void" title="Beyond the Void" type="rss" 
+            xmlUrl="https://byvoid.com/zht/feed.xml" htmlUrl="https://byvoid.com/zht/"/>
+      <outline text="Binuxの杂货铺" title="Binuxの杂货铺" type="rss" 
+            xmlUrl="http://blog.binux.me/atom.xml"/>
+      <outline text="Blog of Insanity (狂人日記)" title="Blog of Insanity (狂人日記)" type="rss" 
+            xmlUrl="https://paulsin.blogspot.com/feeds/posts/default" htmlUrl="https://paulsin.blogspot.com/"/>
+      <outline text="Changkun&#39;s Blog" title="Changkun&#39;s Blog" type="rss" 
+            xmlUrl="https://changkun.de/blog/index.xml" htmlUrl="https://changkun.de/blog/"/>
+      <outline text="Coding Horror" title="Coding Horror" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="https://blog.codinghorror.com/"/>
+      <outline text="Dan Wang" title="Dan Wang" type="rss" 
+            xmlUrl="https://danwang.co/feed/" htmlUrl="https://danwang.co"/>
+      <outline text="Daniel Lemire&#39;s blog" title="Daniel Lemire&#39;s blog" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/daniel-lemire/atom" htmlUrl="https://lemire.me/blog"/>
+      <outline text="Evan You" title="Evan You" type="rss" 
+            xmlUrl="http://blog.evanyou.me/atom.xml"/>
+      <outline text="Exception Not Found" title="Exception Not Found" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/ExceptionNotFound" htmlUrl="https://exceptionnotfound.net"/>
+      <outline text="Free Mind" title="Free Mind" type="rss" 
+            xmlUrl="http://freemind.pluskid.org/rss.xml" htmlUrl="http://freemind.pluskid.org"/>
+      <outline text="Gee Law’s Blog" title="Gee Law’s Blog" type="rss" 
+            xmlUrl="https://geelaw.blog/rss.xml" htmlUrl="https://geelaw.blog/?utm_source=feed&amp;utm_medium=rss"/>
+      <outline text="GeekPlux" title="GeekPlux" type="rss" 
+            xmlUrl="https://geekplux.com/feed.xml" htmlUrl="https://geekplux.com"/>
+      <outline text="Halfrost&#39;s Field | 冰霜之地" title="Halfrost&#39;s Field | 冰霜之地" type="rss" 
+            xmlUrl="https://halfrost.com/rss/" htmlUrl="https://halfrost.com/"/>
+      <outline text="Hi, DIYgod" title="Hi, DIYgod" type="rss" 
+            xmlUrl="https://diygod.me/atom.xml" htmlUrl="https://diygod.cc"/>
+      <outline text="HuoJu&#39;s BLOG" title="HuoJu&#39;s BLOG" type="rss" 
+            xmlUrl="http://feeds2.feedburner.com/virushuo" htmlUrl="/"/>
+      <outline text="Jack BLOG" title="Jack BLOG" type="rss" 
+            xmlUrl="https://jackwill.top/rss.xml"/>
+      <outline text="Jack Lewis" title="Jack Lewis" type="rss" 
+            xmlUrl="https://jacklew.is/feed.xml" htmlUrl="https://www.jacklew.is/"/>
+      <outline text="JerryQu 的小站" title="JerryQu 的小站" type="rss" 
+            xmlUrl="https://www.imququ.com/rss.html" htmlUrl="https://imququ.com"/>
+      <outline text="Julia Evans" title="Julia Evans" type="rss" 
+            xmlUrl="https://jvns.ca/atom.xml"/>
+      <outline text="JustZht&#39;s EchoChamber" title="JustZht&#39;s EchoChamber" type="rss" 
+            xmlUrl="http://www.justzht.com/rss/" htmlUrl="https://www.justzht.com/"/>
+      <outline text="Kari learns to code; hilarity ensues" title="Kari learns to code; hilarity ensues" type="rss" 
+            xmlUrl="http://gettingbit.com/feed/" htmlUrl="https://gettingbit.com"/>
+      <outline text="Laurence Gellert&#39;s Blog" title="Laurence Gellert&#39;s Blog" type="rss" 
+            xmlUrl="http://www.laurencegellert.com/feed/" htmlUrl="https://www.laurencegellert.com"/>
+      <outline text="Limboy" title="Limboy" type="rss" 
+            xmlUrl="https://limboy.me/index.xml" htmlUrl="https://limboy.me"/>
+      <outline text="Marginal Revolution" title="Marginal Revolution" type="rss" 
+            xmlUrl="https://feeds.feedblitz.com/marginalrevolution&amp;x=1" htmlUrl="https://marginalrevolution.com/"/>
+      <outline text="Martin Fowler" title="Martin Fowler" type="rss" 
+            xmlUrl="http://martinfowler.com/bliki/bliki.atom"/>
+      <outline text="Matrix67: The Aha Moments" title="Matrix67: The Aha Moments" type="rss" 
+            xmlUrl="http://www.matrix67.com/blog/feed" htmlUrl="http://www.matrix67.com/blog"/>
+      <outline text="Matt Might&#39;s blog" title="Matt Might&#39;s blog" type="rss" 
+            xmlUrl="http://matt.might.net/articles/feed.rss" htmlUrl="http://matt.might.net/"/>
+      <outline text="Michael Feathers" title="Michael Feathers" type="rss" 
+            xmlUrl="https://michaelfeathers.silvrback.com/feed" htmlUrl="https://michaelfeathers.silvrback.com/feed"/>
+      <outline text="Michael Tsai" title="Michael Tsai" type="rss" 
+            xmlUrl="https://mjtsai.com/blog/feed/" htmlUrl="https://mjtsai.com/blog"/>
+      <outline text="Mike Bostock" title="Mike Bostock" type="rss" 
+            xmlUrl="http://bost.ocks.org/mike/index.rss" htmlUrl="https://bost.ocks.org/mike/"/>
+      <outline text="Netflix TechBlog - Medium" title="Netflix TechBlog - Medium" type="rss" 
+            xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"/>
+      <outline text="Nicky&#39;s New Shtuff" title="Nicky&#39;s New Shtuff" type="rss" 
+            xmlUrl="https://ncase.me/feed.xml" htmlUrl="https://ncase.me/"/>
+      <outline text="NoSleep Javascript Blog" title="NoSleep Javascript Blog" type="rss" 
+            xmlUrl="https://nosleepjavascript.com/rss.xml" htmlUrl="https://nosleepjavascript.com"/>
+      <outline text="OneV&#39;s Den" title="OneV&#39;s Den" type="rss" 
+            xmlUrl="https://onevcat.com/feed.xml" htmlUrl="https://onevcat.com"/>
+      <outline text="Open Metric" title="Open Metric" type="rss" 
+            xmlUrl="https://openmetric.org/atom.xml"/>
+      <outline text="OpenAI Blog" title="OpenAI Blog" type="rss" 
+            xmlUrl="https://rsshub.app/openai/blog" htmlUrl="https://openai.com/blog"/>
+      <outline text="Overcoming Bias" title="Overcoming Bias" type="rss" 
+            xmlUrl="https://www.overcomingbias.com/feed" htmlUrl="https://www.overcomingbias.com"/>
+      <outline text="Paul Graham: Essays" title="Paul Graham: Essays" type="rss" 
+            xmlUrl="https://rsshub.app/blogs/paulgraham"/>
+      <outline text="Perfection Kills" title="Perfection Kills" type="rss" 
+            xmlUrl="http://perfectionkills.com/feed.xml" htmlUrl="http://perfectionkills.com/"/>
+      <outline text="Philip Walton" title="Philip Walton" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/philipwalton"/>
+      <outline text="Phoenix&#39;s island" title="Phoenix&#39;s island" type="rss" 
+            xmlUrl="http://blog.phoenixlzx.com/atom.xml"/>
+      <outline text="Pixel-In-Gene Blog" title="Pixel-In-Gene Blog" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/Pixel-In-Gene" htmlUrl="http://blog.pixelingene.com/"/>
+      <outline text="Puzzles, Fun, and Games on Darth Null" title="Puzzles, Fun, and Games on Darth Null" type="rss" 
+            xmlUrl="https://darthnull.org/index.xml" htmlUrl="https://darthnull.org/"/>
+      <outline text="Randy&#39;s Blog" title="Randy&#39;s Blog" type="rss" 
+            xmlUrl="https://lutaonan.com/rss.xml" htmlUrl="https://lutaonan.com/"/>
+      <outline text="Rei" title="Rei" type="rss" 
+            xmlUrl="http://chloerei.com/feed.xml" htmlUrl="https://chloerei.com"/>
+      <outline text="Remains of the Day" title="Remains of the Day" type="rss" 
+            xmlUrl="https://www.eugenewei.com/blog?format=rss" htmlUrl="https://www.eugenewei.com/"/>
+      <outline text="Robert&#39;s talk" title="Robert&#39;s talk" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/robertnyman" htmlUrl="https://robertnyman.com"/>
+      <outline text="Scott Hanselman&#39;s Blog" title="Scott Hanselman&#39;s Blog" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"/>
+      <outline text="Shu Ding" title="Shu Ding" type="rss" 
+            xmlUrl="https://shud.in/feed.xml" htmlUrl="https://shud.in"/>
+      <outline text="Slyar Home" title="Slyar Home" type="rss" 
+            xmlUrl="http://www.slyar.com/blog/feed" htmlUrl="http://www.slyar.com/blog"/>
+      <outline text="Snook.ca" title="Snook.ca" type="rss" 
+            xmlUrl="https://snook.ca/jonathan/index.rdf" htmlUrl="https://snook.ca/"/>
+      <outline text="Sophie Alpert" title="Sophie Alpert" type="rss" 
+            xmlUrl="https://sophiebits.com/atom.xml"/>
+      <outline text="Stephen Wolfram Writings" title="Stephen Wolfram Writings" type="rss" 
+            xmlUrl="http://blog.stephenwolfram.com/feed/" htmlUrl="https://writings.stephenwolfram.com"/>
+      <outline text="Stories by Mike Bostock on Medium" title="Stories by Mike Bostock on Medium" type="rss" 
+            xmlUrl="https://medium.com/feed/@mbostock" htmlUrl="https://medium.com/@mbostock?source=rss-c918c478bb49------2"/>
+      <outline text="Taiwan 2.0" title="Taiwan 2.0" type="rss" 
+            xmlUrl="https://taiwan.chtsai.org/feed/" htmlUrl="https://taiwan.chtsai.org"/>
+      <outline text="Tech Notes" title="Tech Notes" type="rss" 
+            xmlUrl="http://neugierig.org/software/blog/atom.xml"/>
+      <outline text="Through the Looking-Glass" title="Through the Looking-Glass" type="rss" 
+            xmlUrl="https://www.soimort.org/feed.atom" htmlUrl="https://www.soimort.org/"/>
+      <outline text="Tim&#39;s Blog" title="Tim&#39;s Blog" type="rss" 
+            xmlUrl="http://wuzhiwei.net/feed/" htmlUrl="https://wuzhiwei.net"/>
+      <outline text="Tony Bai" title="Tony Bai" type="rss" 
+            xmlUrl="http://tonybai.com/feed/" htmlUrl="https://tonybai.com"/>
+      <outline text="Tychlog" title="Tychlog" type="rss" 
+            xmlUrl="https://blog.tychio.net/atom.xml"/>
+      <outline text="Wenson的隨筆網站" title="Wenson的隨筆網站" type="rss" 
+            xmlUrl="https://wensonyeh.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://wensonyeh.blogspot.com/"/>
+      <outline text="Xuanwo&#39;s Blog" title="Xuanwo&#39;s Blog" type="rss" 
+            xmlUrl="https://xuanwo.io/index.xml" htmlUrl="https://xuanwo.io/"/>
+      <outline text="Yihui&#39;s Blog on Yihui Xie | 谢益辉" title="Yihui&#39;s Blog on Yihui Xie | 谢益辉" type="rss" 
+            xmlUrl="http://yihui.name/en/feed/" htmlUrl="https://yihui.org/en/"/>
+      <outline text="[米随随] s5s5" title="[米随随] s5s5" type="rss" 
+            xmlUrl="http://s5s5.me/feed" htmlUrl="https://s5s5.me/"/>
+      <outline text="aifreedom" title="aifreedom" type="rss" 
+            xmlUrl="https://aifreedom.com/feed" htmlUrl="https://aifreedom.com"/>
+      <outline text="bindog study" title="bindog study" type="rss" 
+            xmlUrl="http://bindog.github.io/feed.xml" htmlUrl="https://bindog.github.io/"/>
+      <outline text="linroid" title="linroid" type="rss" 
+            xmlUrl="http://linroid.com/atom.xml"/>
+      <outline text="smalltalk" title="smalltalk" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/xdite/smalltalk" htmlUrl="http://smalltalk.xdite.net"/>
+      <outline text="wzyboy’s blog" title="wzyboy’s blog" type="rss" 
+            xmlUrl="https://wzyboy.im/feed.xml" htmlUrl="https://wzyboy.im/"/>
+      <outline text="一天世界" title="一天世界" type="rss" 
+            xmlUrl="http://blog.itgonglun.com/feed/" htmlUrl="https://blog.yitianshijie.net"/>
+      <outline text="云风的 BLOG" title="云风的 BLOG" type="rss" 
+            xmlUrl="http://blog.codingnow.com/atom.xml" htmlUrl="https://blog.codingnow.com/"/>
+      <outline text="刘未鹏 | Mind Hacks" title="刘未鹏 | Mind Hacks" type="rss" 
+            xmlUrl="http://mindhacks.cn/feed/" htmlUrl="http://mindhacks.cn"/>
+      <outline text="大智若鱼" title="大智若鱼" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/bfishadow" htmlUrl="https://gongm.in"/>
+      <outline text="技术奇异点" title="技术奇异点" type="rss" 
+            xmlUrl="https://techsingular.net/feed/" htmlUrl="https://techsingular.net"/>
+      <outline text="日志 on Yihui Xie | 谢益辉" title="日志 on Yihui Xie | 谢益辉" type="rss" 
+            xmlUrl="http://yihui.name/cn/feed/" htmlUrl="https://yihui.org/cn/"/>
+      <outline text="木遥的窗子" title="木遥的窗子" type="rss" 
+            xmlUrl="http://blog.farmostwood.net/feed" htmlUrl="http://blog.farmostwood.net"/>
+      <outline text="杜思妥，也乎？斯記。" title="杜思妥，也乎？斯記。" type="rss" 
+            xmlUrl="https://dostoe.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://dostoe.blogspot.com/"/>
+      <outline text="猫窝" title="猫窝" type="rss" 
+            xmlUrl="http://blog.wangjunyu.net/feed" htmlUrl="http://blog.wangjunyu.net"/>
+      <outline text="离别歌" title="离别歌" type="rss" 
+            xmlUrl="https://www.leavesongs.com/feed/" htmlUrl="https://www.leavesongs.com"/>
+      <outline text="程序员的喵" title="程序员的喵" type="rss" 
+            xmlUrl="https://catcoding.me/atom.xml"/>
+      <outline text="网络寻租" title="网络寻租" type="rss" 
+            xmlUrl="http://blog.linjunhalida.com/atom.xml"/>
+      <outline text="罗磊的独立博客" title="罗磊的独立博客" type="rss" 
+            xmlUrl="http://luolei.org/feed/" htmlUrl="https://luolei.org"/>
+      <outline text="美团技术团队" title="美团技术团队" type="rss" 
+            xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
+      <outline text="老赵点滴 - 追求编程之美" title="老赵点滴 - 追求编程之美" type="rss" 
+            xmlUrl="http://blog.zhaojie.me/rss" htmlUrl="http://blog.zhaojie.me/"/>
+      <outline text="艾克斯の编码者" title="艾克斯の编码者" type="rss" 
+            xmlUrl="https://xcoder.in/atom.xml"/>
+      <outline text="行者无疆 始于足下" title="行者无疆 始于足下" type="rss" 
+            xmlUrl="http://xiaohanyu.me/atom.xml" htmlUrl="http://xiaohanyu.me/"/>
+      <outline text="订阅源" title="订阅源" type="rss" 
+            xmlUrl="https://www.maartenlambrechts.com/feed.xml" htmlUrl="https://www.maartenlambrechts.com/"/>
+      <outline text="酷 壳 – CoolShell" title="酷 壳 – CoolShell" type="rss" 
+            xmlUrl="http://coolshell.cn/feed" htmlUrl="https://coolshell.cn"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="阳志平的网志" title="阳志平的网志" type="rss" 
+            xmlUrl="https://www.yangzhiping.com/feed.xml"/>
+      <outline text="高策" title="高策" type="rss" 
+            xmlUrl="http://gaocegege.com/Blog/rss.xml" htmlUrl="http://gaocegege.com/Blog"/>
+      <outline text="3Blue1Brown mailing list" title="3Blue1Brown mailing list" type="rss" 
+            xmlUrl="https://3blue1brown.substack.com/feed" htmlUrl="https://3blue1brown.substack.com"/>
+  </outline>
+  <outline title="Web" text="Web">
+      <outline text="AddyOsmani.com" title="AddyOsmani.com" type="rss" 
+            xmlUrl="https://addyosmani.com/rss.xml" htmlUrl="https://addyosmani.com"/>
+      <outline text="Christian Heilmann" title="Christian Heilmann" type="rss" 
+            xmlUrl="https://christianheilmann.com/feed/" htmlUrl="https://christianheilmann.com"/>
+      <outline text="Dan Abramov&#39;s Overreacted Blog RSS Feed" title="Dan Abramov&#39;s Overreacted Blog RSS Feed" type="rss" 
+            xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io/"/>
+      <outline text="David Walsh Blog" title="David Walsh Blog" type="rss" 
+            xmlUrl="https://davidwalsh.name/feed" htmlUrl="https://davidwalsh.name"/>
+      <outline text="Human Who Codes" title="Human Who Codes" type="rss" 
+            xmlUrl="https://humanwhocodes.com/feeds/blog.xml" htmlUrl="https://humanwhocodes.com"/>
+      <outline text="The ephemera of Nicolas Gallagher" title="The ephemera of Nicolas Gallagher" type="rss" 
+            xmlUrl="http://nicolasgallagher.com/category/code/feed/"/>
+  </outline>
+  <outline title="书和电影" text="书和电影">
+  </outline>
+  <outline title="期刊" text="期刊">
+      <outline text="Harper&#39;s Magazine" title="Harper&#39;s Magazine" type="rss" 
+            xmlUrl="https://harpers.org/feed/"/>
+      <outline text="The Economist Print Edition" title="The Economist Print Edition" type="rss" 
+            xmlUrl="https://feedx.net/rss/economistp.xml" htmlUrl="https://www.economist.com"/>
+      <outline text="The New York Review of Books" title="The New York Review of Books" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/nybooks" htmlUrl="https://www.nybooks.com"/>
+  </outline>
+  <outline title="社科" text="社科">
+  </outline>
+  <outline title="视频" text="视频">
+      <outline text="Jon Gjengset" title="Jon Gjengset" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_iD0xppBwwsrM9DegC5cQQ" htmlUrl="https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ"/>
+      <outline text="Luke Smith" title="Luke Smith" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA" htmlUrl="https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"/>
+      <outline text="ThePrimeagen" title="ThePrimeagen" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENHE5xdFSwx71u3fDH5Xw" htmlUrl="https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw"/>
+      <outline text="george hotz archive" title="george hotz archive" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwgKmJM4ZJQRJ-U5NjvR2dg" htmlUrl="https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg"/>
+      <outline text="bashbunni" title="bashbunni" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9H0HzpKf5JlazkADWnW1Jw" htmlUrl="https://www.youtube.com/channel/UC9H0HzpKf5JlazkADWnW1Jw"/>
+      <outline text="TJ DeVries" title="TJ DeVries" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCd3dNckv1Za2coSaHGHl5aA" htmlUrl="https://www.youtube.com/channel/UCd3dNckv1Za2coSaHGHl5aA"/>
+      <outline text="TheVimeagen" title="TheVimeagen" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVk4b-svNJoeytrrlOixebQ" htmlUrl="https://www.youtube.com/channel/UCVk4b-svNJoeytrrlOixebQ"/>
+      <outline text="ThePrimeTime" title="ThePrimeTime" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ" htmlUrl="https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ"/>
+  </outline>
+      <outline text="Twitter @ThePrimeagen" title="Twitter @ThePrimeagen" type="rss" 
+            xmlUrl="https://rsshub.app/twitter/user/ThePrimeagen" htmlUrl="https://twitter.com/ThePrimeagen"/>
+      <outline text="Twitter @teej dv 🔭" title="Twitter @teej dv 🔭" type="rss" 
+            xmlUrl="https://rsshub.app/twitter/user/teej_dv" htmlUrl="https://twitter.com/teej_dv"/>
+</body>
+</opml>

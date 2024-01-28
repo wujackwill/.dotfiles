@@ -1,0 +1,431 @@
+{
+    "apps": [
+        {
+            "Updated": "2024-01-02T12:07:18.4778069+08:00",
+            "Name": "1password-cli",
+            "Info": "Install failed",
+            "Version": null,
+            "Source": null
+        },
+        {
+            "Updated": "2023-12-23T20:47:45.3527662+08:00",
+            "Name": "7zip",
+            "Info": "",
+            "Version": "23.01",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:50:24.1203767+08:00",
+            "Name": "autohotkey",
+            "Info": "",
+            "Version": "2.0.11",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-12-23T20:50:28.3302652+08:00",
+            "Name": "bat",
+            "Info": "",
+            "Version": "0.24.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-01-07T13:54:42.5323763+08:00",
+            "Name": "broot",
+            "Info": "",
+            "Version": "1.32.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:50:33.9095108+08:00",
+            "Name": "cacert",
+            "Info": "",
+            "Version": "2023-12-12",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-01-05T16:12:44.303901+08:00",
+            "Name": "chezmoi",
+            "Info": "",
+            "Version": "2.43.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T21:29:53.5975494+08:00",
+            "Name": "clangd",
+            "Info": "",
+            "Version": "17.0.3",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:51:03.8358195+08:00",
+            "Name": "cmake",
+            "Info": "",
+            "Version": "3.28.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-22T17:29:46.38156+08:00",
+            "Name": "cuda",
+            "Info": "Install failed",
+            "Version": null,
+            "Source": null
+        },
+        {
+            "Updated": "2023-12-23T20:52:09.4434101+08:00",
+            "Name": "cygwin",
+            "Info": "",
+            "Version": "2.928",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-25T14:29:42.5668747+08:00",
+            "Name": "dark",
+            "Info": "",
+            "Version": "3.11.2",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-05-15T12:10:11.5389841+08:00",
+            "Name": "duf",
+            "Info": "",
+            "Version": "0.8.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:52:13.0958298+08:00",
+            "Name": "everything",
+            "Info": "",
+            "Version": "1.4.1.1024",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-12-27T13:56:20.1263087+08:00",
+            "Name": "everything-cli",
+            "Info": "",
+            "Version": "1.1.0.26",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:52:16.8279502+08:00",
+            "Name": "fd",
+            "Info": "",
+            "Version": "9.0.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-01-07T13:54:45.6727418+08:00",
+            "Name": "fzf",
+            "Info": "",
+            "Version": "0.45.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-04-25T19:09:18.3129337+08:00",
+            "Name": "gcc",
+            "Info": "",
+            "Version": "11.2.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-01-07T13:54:48.0346295+08:00",
+            "Name": "geckodriver",
+            "Info": "",
+            "Version": "0.34.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-11-08T16:28:49.5813176+08:00",
+            "Name": "gimp",
+            "Info": "",
+            "Version": "2.10.36",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-12-23T20:52:47.7969805+08:00",
+            "Name": "git",
+            "Info": "",
+            "Version": "2.43.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-28T22:45:08.6386859+08:00",
+            "Name": "go",
+            "Info": "",
+            "Version": "1.21.5",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:53:16.145823+08:00",
+            "Name": "gpg",
+            "Info": "",
+            "Version": "2.4.3",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-04-07T20:10:48.9813313+08:00",
+            "Name": "innounp",
+            "Info": "",
+            "Version": "0.50",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-04-13T22:29:37.6994465+08:00",
+            "Name": "keypirinha",
+            "Info": "",
+            "Version": "2.26",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-12-23T20:53:18.5709754+08:00",
+            "Name": "komorebi",
+            "Info": "",
+            "Version": "0.1.19",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-04-30T10:38:03.1443304+08:00",
+            "Name": "ln",
+            "Info": "",
+            "Version": "0.2018.07.25",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-05-16T19:05:26.0944024+08:00",
+            "Name": "lua",
+            "Info": "",
+            "Version": "5.4.2",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-01-07T13:54:52.7242143+08:00",
+            "Name": "lua-language-server",
+            "Info": "",
+            "Version": "3.7.4",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-04-08T23:01:57.7381252+08:00",
+            "Name": "make",
+            "Info": "",
+            "Version": "4.4.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-28T11:30:18.3018459+08:00",
+            "Name": "meson",
+            "Info": "",
+            "Version": "1.3.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T21:42:42.5228325+08:00",
+            "Name": "msys2",
+            "Info": "",
+            "Version": "2023-10-26",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:53:47.3408952+08:00",
+            "Name": "mupdf",
+            "Info": "",
+            "Version": "1.23.0",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-12-31T21:46:18.3896991+08:00",
+            "Name": "neovim",
+            "Info": "",
+            "Version": "0.9.5",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-07-08T18:50:07.6201861+08:00",
+            "Name": "ninja",
+            "Info": "",
+            "Version": "1.11.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:54:14.2971086+08:00",
+            "Name": "nodejs",
+            "Info": "",
+            "Version": "21.5.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-31T21:51:50.7360733+08:00",
+            "Name": "obs-studio",
+            "Info": "",
+            "Version": "30.0.2",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-01-07T13:55:00.993672+08:00",
+            "Name": "oh-my-posh",
+            "Info": "",
+            "Version": "19.4.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:54:22.5236958+08:00",
+            "Name": "openssh",
+            "Info": "",
+            "Version": "9.5.0.0p1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-01-07T13:55:04.9393816+08:00",
+            "Name": "pandoc",
+            "Info": "",
+            "Version": "3.1.11.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T21:12:16.2791755+08:00",
+            "Name": "perl",
+            "Info": "",
+            "Version": "5.38.0.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-07-08T18:54:02.5318981+08:00",
+            "Name": "pkg-config",
+            "Info": "",
+            "Version": "0.26-1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-25T14:30:15.4197756+08:00",
+            "Name": "python",
+            "Info": "",
+            "Version": "3.12.1",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:55:01.1362814+08:00",
+            "Name": "r",
+            "Info": "",
+            "Version": "4.3.2",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-01-07T13:55:08.1224928+08:00",
+            "Name": "ripgrep",
+            "Info": "",
+            "Version": "14.1.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-31T21:49:22.5648426+08:00",
+            "Name": "rust",
+            "Info": "",
+            "Version": "1.75.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-28T11:39:23.7863915+08:00",
+            "Name": "rustup",
+            "Info": "",
+            "Version": "1.26.0",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-05-22T22:31:25.8113532+08:00",
+            "Name": "sbcl",
+            "Info": "",
+            "Version": "2.3.2",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:43:31.2837666+08:00",
+            "Name": "sed",
+            "Info": "",
+            "Version": "4.9",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-04-07T20:13:24.0198069+08:00",
+            "Name": "sudo",
+            "Info": "",
+            "Version": "0.2020.01.26",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:55:07.180396+08:00",
+            "Name": "sumatrapdf",
+            "Info": "",
+            "Version": "3.5.2",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-01-07T13:55:09.8125145+08:00",
+            "Name": "syncthing",
+            "Info": "",
+            "Version": "1.27.2",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-31T22:10:01.1059436+08:00",
+            "Name": "thunderbird",
+            "Info": "",
+            "Version": "115.6.0",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-05-07T18:41:58.1218071+08:00",
+            "Name": "touch",
+            "Info": "",
+            "Version": "0.2018.07.25",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-05-12T18:15:43.5065695+08:00",
+            "Name": "wget",
+            "Info": "",
+            "Version": "1.21.4",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-04-10T12:13:32.8381677+08:00",
+            "Name": "which",
+            "Info": "",
+            "Version": "2.20",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-23T20:55:20.893262+08:00",
+            "Name": "whkd",
+            "Info": "",
+            "Version": "0.2.0",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-12-31T21:49:26.1626915+08:00",
+            "Name": "yt-dlp",
+            "Info": "",
+            "Version": "2023.12.30",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-12-24T20:09:21.2458619+08:00",
+            "Name": "zoxide",
+            "Info": "",
+            "Version": "0.9.2",
+            "Source": "main"
+        }
+    ],
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://proxy.201704.xyz/https://github.com/ScoopInstaller/Extras",
+            "Updated": "2024-01-07T08:32:08+08:00",
+            "Manifests": 1892
+        },
+        {
+            "Name": "main",
+            "Source": "https://proxy.201704.xyz/https://github.com/ScoopInstaller/Main",
+            "Updated": "2024-01-07T08:32:44+08:00",
+            "Manifests": 1268
+        }
+    ]
+}
