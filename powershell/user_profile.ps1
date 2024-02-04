@@ -25,8 +25,13 @@ Set-Alias ep E-Studio
 Set-Alias em E-Merge
 Set-Alias ed E-DataAid
 
+function RUST_BACKTRACE=1 {
+    $env:RUST_BACKTRACE=1 
+}
 
-$env:FZF_DEFAULT_OPTS="--ansi --preview-window 'right:60%' --preview 'bat --color=always --style=header,grid --line-range :300 {}'"
+
+
+# $env:FZF_DEFAULT_OPTS="--ansi --preview-window 'right:60%' --preview 'bat --color=always --style=header,grid --line-range :300 {}'"
 
 function search {
     $query = Read-Host "file type"
@@ -71,11 +76,11 @@ Set-PSReadLineKeyHandler -Key "Ctrl+n" -ScriptBlock { search_note }
 # find directory
 function Run-MyScript {
     # 获取选定的目录
-    $selectedDirectory = fd --type d . 'C:\Users\jackwill'. 'C:\Users\jackwill\.config' . "C:\Users\jackwill\.dotfiles" . "D:\personal" ."D:\wujackwill.github.io" . 'D:\work' .  'D:\OneDrive\应用\remotely-save\md' 'C:\Users\jackwill\AppData\Local' --min-depth 1 --max-depth 2 | fzf
+    $selectedDirectory = fd --type d . 'C:\Users\jackwill'. 'C:\Users\jackwill\.config' . "C:\Users\jackwill\.dotfiles" . "D:\personal" ."D:\wujackwill.github.io" . 'D:\work' .  'D:\OneDrive\应用\remotely-save\md' 'C:\Users\jackwill\AppData\Local' --min-depth 1 --max-depth 1 | fzf
     # 检查是否选择了目录
     if (-not [string]::IsNullOrWhiteSpace($selectedDirectory)) {
         # 打开选定的目录
-        cd $selectedDirectory
+        z $selectedDirectory
         # 模拟按下回车键
 #        Add-Type -AssemblyName System.Windows.Forms
 #        [System.Windows.Forms.SendKeys]::SendWait("{ENTER}")
@@ -191,7 +196,7 @@ function bc {
         foreach ($markdownFile in $markdownFiles) {
             $htmlFile = Join-Path $docsDirectory ($markdownFile.BaseName + ".html")
 
-                pandoc --to=html5 $markdownFile.FullName -o $htmlFile -V mainfont="SimSun" --citeproc --bibliography="D:\Zotero\m.bib" --csl 'D:\personal\apa-style\american-psychological-association-7th-edition(blog).csl' --css=https://benjam.info/panam/styling.css  -s
+                pandoc --to=html5 $markdownFile.FullName -o $htmlFile -V mainfont="SimSun" --citeproc --bibliography="D:\Zotero\m.bib" --csl 'D:\personal\apa-style\american-psychological-association-7th-edition(blog).csl' --css=https://benjam.info/panam/styling.css -s
         }
 
 
